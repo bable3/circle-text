@@ -45,8 +45,6 @@ jQuery 1.8
 
 # License
 
-# License
-
 Licensed under the MIT license.
 
 Copyright © François Faucon

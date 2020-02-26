@@ -2,6 +2,8 @@
 
 Circle text is a simple jquery plugin to create text in circle shape. 
 
+git : https://github.com/bable3/circle-text
+
 # Init
 
 ```html
